@@ -1,0 +1,7 @@
+hmmmmm...dirty code, need to rewrite, if I have time. :D
+
+if you want to grab data from www.dianping.comi(大众点评),here may be helpful for U.
+
+phantomjs can grab webpage info for U , then use ruby to match and catch what U want.
+
+ we should get the URLs for each shops first to a file. Then open this file to load each shop webpage , grab what we want.
